@@ -64,7 +64,7 @@ telebot==0.0.5
 Telethon==1.26.1
 typing_extensions==4.12.2
 tzdata==2024.1
-urllib3==2.2.2
+urllib3==1.21.1
 virtualenv==20.26.3
 websockets==12.0
 Werkzeug==3.0.3
